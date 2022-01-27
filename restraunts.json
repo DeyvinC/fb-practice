@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Bolay",
+        "Location": "Boca Raton FL",
+        "Type": "Healthy American",
+        "Price": "$$"
+    },
+    {
+        "Name": "Chipotle",
+        "Location": "Boca Raton FL",
+        "Type": "American Latin",
+        "Price": "$"
+    },
+    {
+        "Name": "Flanigans",
+        "Location": "Boca Raton FL",
+        "Type": "American",
+        "Price": "$$$"
+    },
+    {
+        "Name": "Tequila Sunrise",
+        "Location": "Fort Lauderdale FL",
+        "Type": "Tex Mex",
+        "Price": "$$$"
+    }
+    
+]
